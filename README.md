@@ -36,7 +36,7 @@ To get started with the project, you'll need Xcode and an Apple Developer accoun
 - `WSIDT/WSIDT/Data`: Contains data files like `CharacterData.swift`, `Prompts.swift`.
 - `WSIDT/WSIDT/Views`: Contains view files like `BackgroundView.swift`, `ContentView.swift`, `Favoritesview.swift`, `FusionGeneratorView.swift`, `GeneratorView.swift`.
 
-## How to Contribute
+
 ## How to Contribute 🤝
 
 - Fork the Repository: Click on the 'Fork' button at the top-right corner of this page.
