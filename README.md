@@ -49,6 +49,9 @@ To get started with the project, you'll need Xcode and an Apple Developer accoun
 - Switch to the Appropriate Branch: Use `git checkout <branch-name>` to switch to the branch that is relevant to your contribution. 
 For example, if you are working on the <b>`Fusion Generator`</b>, you might switch to a branch named `fusion-generator-dev`.
 
+- Join Our Community: Visit our [Discord](https://discord.gg/4ABScNAmQp) server for real-time discussions and updates.
+
+
 ## License
 This project is licensed under the terms of the MIT License.
 
